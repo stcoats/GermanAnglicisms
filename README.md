@@ -9,4 +9,4 @@ Decompress the resulting file to get the large list of Tweet IDs.
 
 To download the tweets from Twitter, feed in the Tweet IDs using [Tweepy](https://github.com/tweepy/tweepy), [Twarc](https://github.com/docnow/twarc), or a similar tool.
 
-If you use the resources, please cite [this paper].
+For more information, please see [this paper], and cite it if you make use of these resources.
