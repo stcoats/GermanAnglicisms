@@ -1459,6 +1459,8 @@ geownt
 gepacked
 gepact
 gepaid
+gepained
+gepaint
 gepainted
 gepaintet
 gepaired
@@ -2241,7 +2243,7 @@ padden
 paddlen
 paden
 padlocken
-pain
+painen
 painten
 pairen
 pamperen
